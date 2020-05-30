@@ -1,7 +1,6 @@
 This project was created uder guided from the Udemy course.
 
 ## How To Use
-
 In the project directory, to be eable to run:
 1. Clone this repo
 2. Run `cd robofriends`
