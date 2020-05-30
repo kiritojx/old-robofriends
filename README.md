@@ -1,5 +1,4 @@
-This project was created uder guided from the Udemy course.
-
+This project was created uder guided from the Udemy course. Check out [this link](https://kiritojx.github.io/robofriends/).
 ## How To Use
 In the project directory, to be eable to run:
 1. Clone this repo
